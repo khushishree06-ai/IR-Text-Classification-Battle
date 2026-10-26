@@ -32,7 +32,11 @@ This project compares four classification algorithms:
 The models are evaluated using accuracy, precision, recall, and F1-score, where available in the notebook.
 
 ## Results
-The performance of the classification algorithms is compared to identify which model performs best on the selected dataset.
+The four machine learning algorithms were tested and compared using the text dataset. TF-IDF was used to convert text into numerical features.
+
+The performance of the models was evaluated using accuracy, precision, recall, and F1-score.
+
+The results help us understand how well each algorithm performs in text classification and identify the best-performing model.
 
 ## Tools and Technologies
 - Python
@@ -43,7 +47,7 @@ The performance of the classification algorithms is compared to identify which m
 - GitHub
 
 ## Conclusion
-This project helps us understand how different machine learning algorithms perform on text classification tasks.
+This project compares four machine learning algorithms for text classification. The evaluation metrics help us understand the performance of each model. The model with the best results can be selected based on the comparison.
 
 ## Author
 Khushi
