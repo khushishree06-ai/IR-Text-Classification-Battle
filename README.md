@@ -14,10 +14,10 @@ The project uses a text dataset containing text samples and their corresponding 
 
 ## Algorithms
 This project compares four classification algorithms:
-1. Algorithm 1
-2. Algorithm 2
-3. Algorithm 3
-4. Algorithm 4
+1. Decision Tree
+2. K-Nearest Neighbors (KNN)
+3. Support Vector Machine (SVM)
+4. Naive Bayes
 
 *Note: Replace these four placeholders with the actual algorithm names used in your notebook.*
 
